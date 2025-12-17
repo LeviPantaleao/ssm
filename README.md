@@ -37,40 +37,9 @@ Feito por **Levi Pantaleão**.
 
 ## ✅ Instalação (Setup.exe)
 
-### Windows (recomendado)
+### Windows
 1. Baixe o instalador na aba **Releases** do GitHub.
 2. Execute o `SSM-Setup.exe` (gerado com **Inno Setup**).
 3. Abra o SSM e finalize o **setup inicial**.
 
-> Dica: se o Windows SmartScreen alertar, clique em **“Mais informações” → “Executar assim mesmo”** (comum em apps independentes).
-
----
-
-## ▶️ Executar pelo código-fonte (modo dev)
-
-> Útil para quem quer **modificar** e rodar localmente.
-
-### Requisitos
-- **Python 3.10+** (recomendado)
-- Pip / venv
-
-### Passo a passo
-```bash
-# 1) Clonar
-git clone https://github.com/SEU_USUARIO/SSM.git
-cd SSM
-
-# 2) Ambiente virtual
-python -m venv .venv
-
-# 3) Ativar
-# Windows:
-.venv\Scripts\activate
-# Linux/macOS:
-# source .venv/bin/activate
-
-# 4) Instalar dependências
-pip install -r requirements.txt
-
-# 5) Rodar
-python server.py
+> Atenção: se o Windows SmartScreen alertar, clique em **“Mais informações” → “Executar assim mesmo”** (comum em apps independentes).
