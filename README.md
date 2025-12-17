@@ -4,7 +4,7 @@
 Feito por **Levi Pantaleão**.
 ---
 
-## ✨ Principais recursos
+## Principais recursos
 
 - **Clientes**
   - Cadastro, visualização e edição
@@ -24,7 +24,7 @@ Feito por **Levi Pantaleão**.
 
 ---
 
-## 🖥️ Capturas de tela
+## Capturas de tela
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/92730535-88e8-403f-ba99-1bbaf2e8dcec" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b713b5a5-bc63-4ea9-a92a-a4017fdb238d" />
@@ -35,7 +35,7 @@ Feito por **Levi Pantaleão**.
 
 ---
 
-## ✅ Instalação (Setup.exe)
+## Instalação (Setup.exe)
 
 ### Windows
 1. Baixe o instalador na aba **Releases** do GitHub.
