@@ -2,9 +2,6 @@
 
 **SSM (Simple Sales Management)** é um app desktop simples e rápido para **gerenciar clientes e vendas**, com foco em fluxo enxuto, visual limpo (dark mode) e dados salvos **localmente**.  
 Feito por **Levi Pantaleão**.
-
-> App desktop para gerenciar clientes e vendas, com setup inicial (idioma/tema/diretório/perfil do negócio), recibos/impressões e dados locais — SSM (Simple Sales Management).
-
 ---
 
 ## ✨ Principais recursos
