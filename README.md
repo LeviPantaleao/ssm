@@ -39,7 +39,7 @@ Feito por **Levi Pantaleão**.
 
 ### Windows
 1. Baixe o instalador na aba **Releases** do GitHub.
-2. Execute o `SSM-Setup.exe` (gerado com **Inno Setup**).
+2. Execute o `SSM-Setup.exe` (gerado com **Electron-Builder**).
 3. Abra o SSM e finalize o **setup inicial**.
 
 > Atenção: se o Windows SmartScreen alertar, clique em **“Mais informações” → “Executar assim mesmo”** (comum em apps independentes).
