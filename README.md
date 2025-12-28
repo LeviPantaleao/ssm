@@ -26,12 +26,12 @@ Feito por **Levi Pantaleão**.
 
 ## Capturas de tela
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/92730535-88e8-403f-ba99-1bbaf2e8dcec" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b713b5a5-bc63-4ea9-a92a-a4017fdb238d" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c16b2e72-9ce1-4ff0-9147-3f97e557f193" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/07a43d9f-600f-4673-839a-ad2910c40fa3" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab23dd66-4297-4a75-bf7a-1898406bc1b6" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b95957c3-3503-4990-8a6f-cfd8e07218d1" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cdc05e3a-3a20-439a-a83b-53d065b85306" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1e6f805f-183b-41c3-9465-f3e0385d20f7" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/edf54409-a4f5-4296-bf92-3b07f23a5452" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e2c4ed2f-67a5-4e2d-ad40-51a16382fea5" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/583d0299-9a52-475f-bcee-61ada0e64d7b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/26d07718-aaf8-49ef-b7ca-8df0fd8aa036" />
 
 ---
 
