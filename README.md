@@ -31,7 +31,7 @@ Feito por **Levi Pantaleão**.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f26e01d8-86e1-4019-bff3-cc12999ff6f9" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/86940732-2147-4170-b9fd-9ad4e5735c72" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9ac2abea-60b3-4ae2-8b99-199caab2770d" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/101ffd3e-89c5-4d6f-b818-33e928122f2c" />
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/ed9db8d4-3beb-4cb1-b677-f950870764c4" />
 
 ---
 
