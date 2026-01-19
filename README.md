@@ -26,7 +26,7 @@ Feito por **Levi Pantaleão**.
 
 ## Capturas de tela
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a0b5f071-65a8-40da-9e2f-7eaac03f8710" />
+<img width="1266" height="793" alt="image" src="https://github.com/user-attachments/assets/f066ed88-54d5-483d-b30b-4a2d6d2b0bb3" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c6c770ac-9552-4212-afa2-9887942f927d" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f26e01d8-86e1-4019-bff3-cc12999ff6f9" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/86940732-2147-4170-b9fd-9ad4e5735c72" />
